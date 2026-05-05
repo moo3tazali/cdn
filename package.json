@@ -1,0 +1,9 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public CDN assets with auto-generated README links.",
+  "scripts": {
+    "update-readme": "node generate-readme.js"
+  }
+}
